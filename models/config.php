@@ -80,15 +80,16 @@ function get_timezones()
 function get_languages()
 {
     return array(
-        'cs_CZ' => 'Čeština',
+    	'ar_AR' => 'عربي',	
+        'cs_CZ' => 'ÄŒeÅ¡tina',
         'de_DE' => 'Deutsch',
         'en_US' => 'English',
-        'es_ES' => 'Español',
-        'fr_FR' => 'Français',
+        'es_ES' => 'EspaÃ±ol',
+        'fr_FR' => 'FranÃ§ais',
         'it_IT' => 'Italiano',
-        'pt_BR' => 'Português',
-        'zh_CN' => '简体中国',
-	'sr_RS' => 'српски',
+        'pt_BR' => 'PortuguÃªs',
+        'zh_CN' => 'ç®€ä½“ä¸­å›½',
+	'sr_RS' => 'Ñ�Ñ€Ð¿Ñ�ÐºÐ¸',
 	'sr_RS@latin' => 'srpski',
     );
 }
